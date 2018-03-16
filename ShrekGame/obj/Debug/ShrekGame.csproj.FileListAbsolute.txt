@@ -1,0 +1,11 @@
+C:\Users\Damian\Desktop\ShrekGame\ShrekGame\bin\Debug\ShrekGame.exe.config
+C:\Users\Damian\Desktop\ShrekGame\ShrekGame\bin\Debug\ShrekGame.exe
+C:\Users\Damian\Desktop\ShrekGame\ShrekGame\bin\Debug\ShrekGame.pdb
+C:\Users\Damian\Desktop\ShrekGame\ShrekGame\obj\Debug\ShrekGame.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\ShrekGame\ShrekGame\obj\Debug\ShrekGame.FormMenu.resources
+C:\Users\Damian\Desktop\ShrekGame\ShrekGame\obj\Debug\ShrekGame.FormMainGame.resources
+C:\Users\Damian\Desktop\ShrekGame\ShrekGame\obj\Debug\ShrekGame.Properties.Resources.resources
+C:\Users\Damian\Desktop\ShrekGame\ShrekGame\obj\Debug\ShrekGame.csproj.GenerateResource.Cache
+C:\Users\Damian\Desktop\ShrekGame\ShrekGame\obj\Debug\ShrekGame.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\ShrekGame\ShrekGame\obj\Debug\ShrekGame.exe
+C:\Users\Damian\Desktop\ShrekGame\ShrekGame\obj\Debug\ShrekGame.pdb
